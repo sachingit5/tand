@@ -1,0 +1,11 @@
+package name
+
+import (packages)
+
+func callingFunc(){
+body....
+}
+
+func main(){
+calllingFunc()
+}
